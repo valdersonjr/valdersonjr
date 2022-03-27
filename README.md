@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - I’m a Software Engineer student at UnB and I love solving logic problems.
-- Developer at Atlas of Oportunity, project from MIT Big Data Living Lab
+- Developer of Atlas of Oportunity, project from MIT Big Data Living Lab
 - Lately I've been studying Spring DATA Rest and React.js
 - You can contact me through: valdersonpontes@gmail.com
 
