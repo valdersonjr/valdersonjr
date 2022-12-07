@@ -1,8 +1,12 @@
 ### Greetings 👋
 
 - I’m a Software Engineer student at UnB and I love solving logic problems.
-- Developer of the Atlas of Opportunity, project from MIT Big Data Living Lab
-- You can contact me through: valdersonpontes@gmail.com
+- Developer of the brazilian [Atlas of Opportunity](https://github.com/gpmc-lab-ufrgs/atlas), project from MIT Big Data Living Lab
+- Developer at LATITUDE - Decision Technologies Laboratory
+- Developer at Bento Tecnologia
+
+
+> You can contact me through: [linkedin](https://www.linkedin.com/in/valdersonjr/) or valdersonpontes@gmail.com
 
 ### Languages and Tools
 
