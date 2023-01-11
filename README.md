@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-- I’m a Software Engineer student at UnB and I love solving logic problems.
+- I’m a Software Engineer student at UnB.
 - Developer of the brazilian [Atlas of Opportunity](https://github.com/gpmc-lab-ufrgs/atlas), project from MIT Big Data Living Lab
 - Developer at LATITUDE - Decision Technologies Laboratory
 - Developer at Bento Tecnologia
