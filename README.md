@@ -1,9 +1,11 @@
+<h1 align="center">
+  <a href="https://valdersonjr.com/">valdersonjr.com</a>
+</h1>
+
+<h3 align="center">Building calm, reliable solutions</h3>
+
 <p align="center">
-  <b>Valderson Pontes</b><br/>
-  <sub>Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/">Caixa</a> • BSc in Software Engineering @ <a href="https://www.unb.br/">UnB</a></sub><br/>
-  <sub><a href="https://valdersonjr.com/">Blog</a> • <a href="mailto:valdersonpontes@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/valdersonjr/">LinkedIn</a></sub><br/><br/>
-  <b>Building calm, reliable solutions</b><br/>
-  <i>Fall seven times, stand up eight</i><br/>
+  <em>Fall seven times, stand up eight</em><br/>
   <sub>I turn messy problems into simple, maintainable solutions.</sub>
 </p>
 
@@ -15,13 +17,11 @@
 </div>
 
 ---
-
-<div align="center">
-  <b>Now</b>
-</div>
-
-- Studying for the **AWS Certified Solutions Architect – Associate**
+- Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/">Caixa</a> 
+- BSc in Software Engineering @ <a href="https://www.unb.br/">UnB</a>
 - International Math medalist • Rocketry medalist • Exchange program (US)
+
+> Currently studying for the **AWS Certified Solutions Architect – Associate**
 
 ---
 
@@ -30,8 +30,6 @@
 </div>
 
 ---
-
- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake-dark.svg" />
