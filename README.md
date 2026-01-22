@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/valdersonjr.png" width="96" height="96" alt="Profile photo" style="border-radius: 9999px;" /><br/>
   <a href="https://valdersonjr.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=valdersonjr.com" alt="valdersonjr.com" />
   </a>
@@ -51,12 +50,10 @@
 </div>
 
 ---
-
+<!-- 
 <details>
   <summary><b>More</b></summary>
   <br/>
 
-  - I prefer **simple architecture**, strong **observability**, and predictable delivery.
-  - I’m building toward **AWS** fundamentals (Solutions Architect – Associate).
-  - I write occasionally on my blog: <a href="https://valdersonjr.com/">valdersonjr.com</a>
-</details>
+
+</details> -->
