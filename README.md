@@ -30,9 +30,9 @@ I enjoy turning messy problems into simple, maintainable systems — the kind yo
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake.svg" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake.svg" />
 </picture>
 
 ##
@@ -45,4 +45,6 @@ I enjoy turning messy problems into simple, maintainable systems — the kind yo
 
 ##
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=valdersonjr&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=valdersonjr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
