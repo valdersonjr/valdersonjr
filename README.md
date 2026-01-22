@@ -10,9 +10,18 @@
 
   <br/><br/>
 
-  <a href="mailto:valdersonpontes@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/valdersonjr/">LinkedIn</a> •
-  <a href="https://github.com/valdersonjr">GitHub</a>
+  <a href="mailto:valdersonpontes@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/valdersonjr/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://valdersonjr.com/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/valdersonjr">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
   <br/><br/>
 
