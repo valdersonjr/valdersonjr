@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://valdersonjr.com/">
+  <a href="https://valdersonjr.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=valdersonjr.com" alt="valdersonjr.com" />
   </a>
 </div>
@@ -12,17 +12,17 @@
 </p>
 
 <div align="center">
-  <a href="mailto:valdersonpontes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/valdersonjr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://valdersonjr.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-0B1220?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/valdersonjr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:valdersonpontes@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/valdersonjr/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://valdersonjr.com/" target="_blank" rel="noopener noreferrer"><img alt="Blog" src="https://img.shields.io/badge/Blog-0B1220?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/valdersonjr" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=valdersonjr&style=flat&color=111827&label=views" />
 </div>
 
 ---
 
-- Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/">Caixa</a> 
-- BSc in Software Engineering @ <a href="https://www.unb.br/">UnB</a>
+- Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/" target="_blank" rel="noopener noreferrer">Caixa</a> 
+- BSc in Software Engineering @ <a href="https://www.unb.br/" target="_blank" rel="noopener noreferrer">UnB</a>
 - Math medalist • Rocketry medalist • English Certificate - Exchange program (US)
 
 
