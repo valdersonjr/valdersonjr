@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://valdersonjr.com/">valdersonjr.com</a><br/>
   <strong>Building calm, reliable solutions</strong><br/>
   <em>Fall seven times, stand up eight</em>
 </p>
@@ -11,9 +12,7 @@ I enjoy turning messy problems into simple, maintainable solutions.
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdersonpontes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdersonjr/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valdersonjr)
+[Email](mailto:valdersonpontes@gmail.com) • [LinkedIn](https://www.linkedin.com/in/valdersonjr/) • [GitHub](https://github.com/valdersonjr)
 
 </div>
 
@@ -21,15 +20,15 @@ I enjoy turning messy problems into simple, maintainable solutions.
 
 ---
 
-- Working as a **Software Engineer @ [Caixa](https://linkedin.com/company/caixa-economica-federal/)**
-- BSc in **Software Engineering** @ **[UnB](https://www.unb.br/)**
+- Software Engineer @ [Caixa](https://linkedin.com/company/caixa-economica-federal/) • BSc in Software Engineering @ [UnB](https://www.unb.br/)  
 - International Math medalist • Rocketry medalist • Exchange Program English Certificate (US)
 
 ---
+##
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,vue,nextjs,nodejs,express,python,fastapi,ruby,rails,ts,js,postgres,mysql,docker,githubactions,vite,webpack,tailwind,postman,vercel,heroku,digitalocean,linux,git,github,vscode,intellij&theme=dark)
 
----
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake-dark.svg" />
