@@ -1,40 +1,37 @@
 <p align="center">
   <b>Valderson Pontes</b><br/>
-  <sub><a href="https://valdersonjr.com/">valdersonjr.com</a></sub><br/><br/>
+  <sub>Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/">Caixa</a> • BSc in Software Engineering @ <a href="https://www.unb.br/">UnB</a></sub><br/>
+  <sub><a href="https://valdersonjr.com/">Blog</a> • <a href="mailto:valdersonpontes@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/valdersonjr/">LinkedIn</a></sub><br/><br/>
   <b>Building calm, reliable solutions</b><br/>
-  <i>Fall seven times, stand up eight</i>
+  <i>Fall seven times, stand up eight</i><br/>
+  <sub>I turn messy problems into simple, maintainable solutions.</sub>
 </p>
 
 <div align="center">
-  <a href="mailto:valdersonpontes@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/valdersonjr/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://valdersonjr.com/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/valdersonjr">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:valdersonpontes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/valdersonjr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://valdersonjr.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-0B1220?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/valdersonjr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
-  Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/">Caixa</a> • BSc in Software Engineering @ <a href="https://www.unb.br/">UnB</a>
+  <b>Now</b>
 </div>
 
-- Currently studying for the **AWS Certified Solutions Architect – Associate** certification
+- Studying for the **AWS Certified Solutions Architect – Associate**
 - International Math medalist • Rocketry medalist • Exchange program (US)
-- I enjoy turning messy problems into simple, maintainable solutions
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,vue,nextjs,nodejs,express,python,fastapi,ruby,rails,ts,js,postgres,mysql,docker,githubactions,vite,webpack,tailwind,postman,vercel,heroku,digitalocean,linux,git,github,vscode,intellij&theme=dark)
+<div align="center">
+  <img alt="My Skills" src="https://skillicons.dev/icons?i=java,spring,angular,react,vue,nextjs,nodejs,express,python,fastapi,ruby,rails,ts,js,postgres,mysql,docker,githubactions,vite,webpack,tailwind,postman,vercel,heroku,digitalocean,linux,git,github,vscode,intellij&theme=dark&perline=14" />
+</div>
 
 ---
+
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake-dark.svg" />
