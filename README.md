@@ -1,6 +1,9 @@
-<h1 align="center">
-  <a href="https://valdersonjr.com/">valdersonjr.com</a>
-</h1>
+<div align="center">
+  <img src="https://github.com/valdersonjr.png" width="96" height="96" alt="Profile photo" style="border-radius: 9999px;" /><br/>
+  <a href="https://valdersonjr.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=valdersonjr.com" alt="valdersonjr.com" />
+  </a>
+</div>
 
 <h3 align="center">Building calm, reliable solutions</h3>
 
@@ -14,39 +17,46 @@
   <a href="https://www.linkedin.com/in/valdersonjr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://valdersonjr.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-0B1220?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/valdersonjr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=valdersonjr&style=flat&color=111827&label=views" />
 </div>
 
 ---
+
 - Software Engineer @ <a href="https://linkedin.com/company/caixa-economica-federal/">Caixa</a> 
 - BSc in Software Engineering @ <a href="https://www.unb.br/">UnB</a>
-- International Math medalist • Rocketry medalist • Exchange program (US)
+- Math medalist • Rocketry medalist • English Certificate - Exchange program (US)
+
+
+---
+
+<div align="center">
 
 > Currently studying for the **AWS Certified Solutions Architect – Associate**
 
----
-
-<div align="center">
-  <img alt="My Skills" src="https://skillicons.dev/icons?i=java,spring,angular,react,vue,nextjs,nodejs,express,python,fastapi,ruby,rails,ts,js,postgres,mysql,docker,githubactions,vite,webpack,tailwind,postman,vercel,heroku,digitalocean,linux,git,github,vscode,intellij&theme=dark&perline=14" />
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/valdersonjr/valdersonjr/output/github-snake.svg" />
-</picture>
-
----
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=valdersonjr&show_icons=true&hide_border=true&theme=react" alt="GitHub stats" />
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=valdersonjr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-111827?style=flat&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-111827?style=flat&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Rails-111827?style=flat&logo=rubyonrails&logoColor=white" alt="Rails" />
 </div>
+
+---
+
+<details>
+  <summary><b>More</b></summary>
+  <br/>
+
+  - I prefer **simple architecture**, strong **observability**, and predictable delivery.
+  - I’m building toward **AWS** fundamentals (Solutions Architect – Associate).
+  - I write occasionally on my blog: <a href="https://valdersonjr.com/">valdersonjr.com</a>
+</details>
