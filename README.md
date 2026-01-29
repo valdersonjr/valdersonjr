@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <a href="https://valdersonjr.com/portifolio" target="_blank" rel="noopener noreferrer">
+  <a href="https://valdersonjr.com/portfolio" target="_blank" rel="noopener noreferrer">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-111827?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:valdersonpontes@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=white" /></a>
