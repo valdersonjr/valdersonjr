@@ -12,6 +12,9 @@
 </p>
 
 <div align="center">
+  <a href="/portifolio" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfólio-111827?style=flat&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:valdersonpontes@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/valdersonjr/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://valdersonjr.com/" target="_blank" rel="noopener noreferrer"><img alt="Blog" src="https://img.shields.io/badge/Blog-0B1220?style=flat&logo=googlechrome&logoColor=white" /></a>
